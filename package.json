@@ -1,0 +1,13 @@
+{
+  "name": "coleccion-libros",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendizaje para cargar y listar libros a través de un formulario\n",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Brussa Bárbara",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
